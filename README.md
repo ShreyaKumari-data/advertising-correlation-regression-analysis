@@ -23,8 +23,7 @@ First calculated correlation between channels and between channels and sales. Af
 
 
 ### Recommendation
-- TV is highly statistically significant, but smaller effect per dollar spent, Radio is statistically significant, and larger effect per dollar spent and Newspaper is not statistically significant and has negligible effect.
-- Radio has larger effect per dollar spent and newspaper bring negligible sales. So more budget should be allocated to radio and TV ads and newspaper ads spending should be stopped. If reach data was also available we could have made a better judgement in budget allocation. 
+Radio has larger effect per dollar spent and newspaper bring negligible sales. So more budget should be allocated to radio and TV ads and newspaper ads spending should be stopped. If reach data was also available we could have made a better judgement in budget allocation. 
 
 ### Tools Used
 Microsoft Excel — Formula-Based Analysis, Data Analysis Toolpak
